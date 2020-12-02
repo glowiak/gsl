@@ -22,4 +22,4 @@ You should can install tgz package on this oses
 # How to run:
 Type as root: 'startgentoo' or 'sudo startgentoo' as normal user.
 # Sources
-Sources are [here](http://github.com/glowiak/releases/tag/sources)
+Sources are [here](http://github.com/glowiak/gsl/releases/tag/sources)
