@@ -1,4 +1,4 @@
-# gsl - Gentoo Subsystem for Linux | Run Gentoo on ther Linux
+# gsl - Gentoo Subsystem for Linux | Run Gentoo on other Linux
 
 # Download:
   - Arch package:
