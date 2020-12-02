@@ -1,7 +1,7 @@
 # gsl - Gentoo Subsystem for Linux | Run Gentoo on other Linux
 
 # Download:
-  - Arch package:
+  - Arch package: https://github.com/glowiak/gsl/releases/download/packages/gsl-1.0-1-x86_64.pkg.tar.zst
   - Universal tgz (recommended): cooming soon
 
 # Installing tgz:
@@ -21,3 +21,5 @@ You should can install tgz package on this oses
 
 # How to run:
 Type as root: 'startgentoo' or 'sudo startgentoo' as normal user.
+# Sources
+Sources are [here](http://github.com/glowiak/releases/tag/sources)
