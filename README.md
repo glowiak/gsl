@@ -2,7 +2,7 @@
 
 # Download:
   - Arch package:
-  - Universal tgz (recommended):
+  - Universal tgz (recommended): cooming soon
 
 # Installing tgz:
   - Just type it:
@@ -18,3 +18,6 @@ You should can install tgz package on this oses
   - downloaded and extracted stage3
   - made some modifications
   - create launch script
+
+# How to run:
+Type as root: 'startgentoo' or 'sudo startgentoo' as normal user.
