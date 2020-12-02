@@ -25,3 +25,5 @@ Type as root: 'startgentoo' or 'sudo startgentoo' as normal user.
 Sources are [here](http://github.com/glowiak/gsl/releases/tag/sources)
 # Bugs
   - internet not works, because I don't copied resolv.conf from gentoo livecd, I'll fix it
+# Getting internet on GSL
+Open GSL and type 'echo "nameserver 8.8.8.8" >> /etc/resolv.conf'
