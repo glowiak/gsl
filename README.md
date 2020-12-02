@@ -5,7 +5,7 @@
   - Universal tgz (recommended): cooming soon
 
 # Installing tgz:
-  - Just type it:
+  - Just go to / dir type it:
 #tar xzvf <path/to/tgz/package>
 
 # Installing on Windows:
@@ -19,7 +19,9 @@ You should can install tgz package on this oses
   - made some modifications
   - create launch script
 
-# How to run:
+# How to run
 Type as root: 'startgentoo' or 'sudo startgentoo' as normal user.
 # Sources
 Sources are [here](http://github.com/glowiak/gsl/releases/tag/sources)
+# Bugs
+  - internet not works, because I don't copied resolv.conf from gentoo livecd, I'll fix it
